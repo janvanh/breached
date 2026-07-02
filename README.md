@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
@@ -37,3 +38,7 @@ This work is published under [MIT][mit] License.
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+=======
+# breached
+Cybersecurity portfolio blog — CTF and HackTheBox writeups, OSCP prep notes, and open-source security tools.
+>>>>>>> 474b182a866dd19076cc3101b9137ae98878d460
